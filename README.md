@@ -59,7 +59,7 @@ Domain: rziekszz.netlify.apl
    </p>
   <h3 align="center">👨‍💻 My Stack 👨‍💻</h3>
    <p align="center">
-
+<img src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,c++,c#,mongodb,firebase,github,linux,cloudflare,nginx,npm,tailwind&perline=8&theme=dark KK" width="300"></img>
   <br>
   <h3 align="center">🙏 Thank you for reading</h3>
   <p align="center">
