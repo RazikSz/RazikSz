@@ -40,7 +40,7 @@ Domain: rziekszz.netlify.app
  <br>
  <br>
  
- ###🌏 Connect With Me
+ 🌏 Connect With Me
 
 <a href="https://www.instagram.com/prz_cyber"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
@@ -105,6 +105,11 @@ Domain: rziekszz.netlify.app
    <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,cpp,c#,mongodb,firebase,github,linux,cloudflare,nginx,npm,tailwind&perline=8&theme=dark KK" width="300"></img>
   <br>
+   📉 My Stats
+
+![Rziek Github Statistic](https://github-readme-stats.vercel.app/api?username=RazikSz&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=RazikSz&layout=compact&theme=highcontrast)
+<br>
   <h3 align="center">🙏 Thank you for reading</h3>
   <p align="center">
       <img src="https://media1.tenor.com/m/p_Wua847HAYAAAAd/hanamaru-kindergarten-anime.gif" width= "300"></img>
