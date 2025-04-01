@@ -102,6 +102,11 @@ Domain: rziekszz.netlify.app
         <br>
    </div>
    <br>
+    🎧 Spotify Playing
+<p align="center">
+  <a href="https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz?si=Vy5yjo0KTyi_HkGexZ9vrw" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+   <br>
    <br>
    <p align="center">
          <img src="https://media1.tenor.com/m/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width= "280"></img>
