@@ -5,6 +5,7 @@
  <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
  
  ### 💓 Introduction
+```
 Intro =
 
 "Name": "A.Raziek.R",
@@ -17,8 +18,7 @@ Intro =
    "- All Helpers"
    "- The Last Generation"
    "- And My Friends"
-
-### 📉 My Stats
+```
 </p>
   <h1 align="center">RaziekSzz | Profile</h1>
   
