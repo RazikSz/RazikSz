@@ -121,7 +121,6 @@ Domain: rziekszz.netlify.app
   </table>
 </div>
   <br>
-  <br>
    <h3 align="center">📉 My Stats</h3>
 
 ![Rziek Github Statistic](https://github-readme-stats.vercel.app/api?username=RazikSz&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
