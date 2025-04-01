@@ -63,8 +63,8 @@ Domain: rziekszz.netlify.app
 <!--<a  href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>-->
-<a href="https://codepen.io/-"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
+<a href="https://t.me/Szzzzzkr"> 
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" title="telegram"  alt="telegram"/>
 </a>
 <br />
  <p align="center">
