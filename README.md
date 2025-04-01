@@ -135,6 +135,7 @@ Domain: rziekszz.netlify.app
 
 ![Rziek Github Statistic](https://github-readme-stats.vercel.app/api?username=RazikSz&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=RazikSz&layout=compact&theme=highcontrast)
+![Rziek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazikSz&theme=vue-dark&hide_border=false)
 <br>
   <h3 align="center">🙏 Thank you for reading</h3>
   <p align="center">
