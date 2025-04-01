@@ -103,7 +103,7 @@ Domain: rziekszz.netlify.app
    </p>
   <h3 align="center">👨‍💻 My Stack 👨‍💻</h3>
    <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,cpp,c#,mongodb,firebase,github,linux,cloudflare,nginx,npm,tailwind&perline=8&theme=dark KK" width="300"></img>
+<img src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,cpp,c#,mongodb,github,linux,nginx,npm,tailwind&perline=8&theme=dark KK" width="300"></img>
   <br>
   <br>
   <br>
