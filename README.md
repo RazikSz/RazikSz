@@ -39,6 +39,34 @@ Domain: rziekszz.netlify.app
  <br>
  <br>
  <br>
+ 
+ ###🌏 Connect With Me
+
+<a href="https://www.instagram.com/prz_cyber"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@ZkrEdtz"> 
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+</a>
+<!-- <a href="mailto:razikrdtya@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a> -->
+<!-- <a href="https://www.github.com/lorenzxz"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
+</a> -->
+<!-- <a href="https://twitter.com/-"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
+</a> -->
+<a href="https://www.facebook.com/profile.php?=100087370156118"> 
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
+</a>
+<!--<a  href="https://www.linkedin.com/company/hi-coders/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+</a>-->
+<a href="https://codepen.io/-"> 
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
+</a>
+<br />
  <p align="center">
      <img src="https://media1.tenor.com/m/oXkW9LLAGG8AAAAC/oshi-no-ko-head-bob.gif" width="140"></img>
  </p>
