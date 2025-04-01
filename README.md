@@ -1,5 +1,6 @@
 <!DOCTYPE html>
  <body>
+  <h1 align="center">Hi , I'm Raziek Sz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div class="info">
 <p align ="center">
  <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
