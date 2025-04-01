@@ -105,6 +105,8 @@ Domain: rziekszz.netlify.app
    <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,cpp,c#,mongodb,firebase,github,linux,cloudflare,nginx,npm,tailwind&perline=8&theme=dark KK" width="300"></img>
   <br>
+  <br>
+  <br>
    📉 My Stats
 
 ![Rziek Github Statistic](https://github-readme-stats.vercel.app/api?username=RazikSz&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
