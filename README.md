@@ -57,8 +57,8 @@ Domain: rziekszz.netlify.app
 <!-- <a href="https://twitter.com/-"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> -->
-<a href="https://www.facebook.com/profile.php?=100087370156118"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
+<a href="https://wa.me/62882196274931"> 
+    <img src="https://img.shields.io/badge/Whatsapp-%231877F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" title="Whatsapp"  alt="Whatsapp"/>
 </a>
 <!--<a  href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
