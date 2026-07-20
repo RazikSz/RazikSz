@@ -47,7 +47,7 @@ Domain: rziekszz.netlify.app
  
  🌏 Connect With Me
 
-<a href="https://www.instagram.com/prz_cyber"> 
+<a href="https://www.instagram.com/raziek_sz"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/@ZkrEdtz"> 
@@ -62,7 +62,7 @@ Domain: rziekszz.netlify.app
 <!-- <a href="https://twitter.com/-"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> -->
-<a href="https://wa.me/62882196274931"> 
+<a href="https://wa.me/6287885873325"> 
     <img src="https://img.shields.io/badge/Whatsapp-%231877F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" title="Whatsapp"  alt="Whatsapp"/>
 </a>
 <!--<a  href="https://www.linkedin.com/company/hi-coders/">
