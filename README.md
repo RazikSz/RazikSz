@@ -5,7 +5,7 @@
 <p align ="center">
  <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
  <p align="center">
-  <a href="https://github.com/RazikSz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Wibu;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%20HEHEHE%20:)%20:)&center=true&width=500&height=50"></a>
+  <a href="https://github.com/RazikSz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Creator Bot Whatsapp;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%20HEHEHE%20:)%20:)&center=true&width=500&height=50"></a>
 </p>
 
 
