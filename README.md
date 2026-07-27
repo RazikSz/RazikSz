@@ -56,7 +56,7 @@ Domain: rziekszz.netlify.app
 <!-- <a href="mailto:razikrdtya@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> -->
-<!-- <a href="https://www.github.com/lorenzxz"> 
+<!-- <a href="https://www.github.com/RazikSz"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> -->
 <!-- <a href="https://twitter.com/-"> 
