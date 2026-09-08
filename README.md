@@ -255,50 +255,6 @@ Domain: rziekszz.netlify.app
   </p>
 
 
-<!-- ========================================================= -->
-<!-- HEADER SECTION -->
-<!-- ========================================================= -->
-<div align="center">
-
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=220&section=header&text=Raziek%20Sz&fontSize=70&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Creator%20%7C%20Lifelong%20Learner%20%7C%20Otaku%20Coder&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing SVG -->
-  <a href="https://github.com/RazikSz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=50&lines=System.out.println(%22Hello+World!%22);%F0%9F%91%8B;I'm+Creator;But+I+will+Keep+Learning;I+%7C+Like+%7C+CODING+%3A);Let's+study+Together+HEHEHE+%3A)+%3A)" alt="Typing Animation" />
-  </a>
-
-  <!-- Profile Avatar with Online Badge -->
-  <p align="center">
-    <a href="https://rziekszz.netlify.app" target="_blank">
-      <img src="https://files.catbox.moe/h73x0c.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 15px #00f2fe;" alt="Raziek Avatar" />
-    </a>
-  </p>
-
-  <!-- Visitor Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=RazikSz&label=PROFILE+VIEWS&color=00f2fe&style=flat-square" alt="Visitor Count" />
-  </p>
-
-  <!-- Social Media & Contact Badges -->
-  <p align="center">
-    <a href="https://instagram.com/rziek_sz" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://youtube.com/@ZkrEdtz" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://t.me/Szzzzzkr" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://wa.me/6287885873325" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="https://rziekszz.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" />
-    </a>
-  </p>
-
 </div>
 
  </body>
