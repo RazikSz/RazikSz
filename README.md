@@ -301,36 +301,6 @@ Domain: rziekszz.netlify.app
 
 </div>
 
----
-
-<!-- ========================================================= -->
-<!-- ABOUT ME & SYSTEM DIAGNOSTICS -->
-<!-- ========================================================= -->
-### ⚡ System Information & Diagnostics
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-```ini
-[DEVELOPER PROFILE]
-Name        = A. Raziek R.
-Handle      = RaziekSzz
-Status      = [● ONLINE] Learning & Exploring
-Domain      = rziekszz.netlify.app
-Location    = West Jakarta, Indonesia 🇮🇩
-Birthday    = September 15th
-
-[INTERESTS & PASSIONS]
-Primary     = Software Engineering, Web Development
-Hobbies     = Coding, Video Editing, Gaming
-Favorite    = Gotoubun No Hanayome (五等分の花嫁)
-Audio       = J-Pop / Anime OSTs / Lo-Fi
-
-[SPECIAL GRATITUDE]
-Acknowledged= Allah SWT
-Honors      = Parents, Mentors, The Last Generation & Friends
-
  </body>
 
 </html>
