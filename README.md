@@ -1,164 +1,262 @@
-<div align="center">
+<!DOCTYPE html>
 
-  <!-- Header Banner Waving Dynamic -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=220&section=header&text=Hi%2C%20I'm%20Raziek%20Sz%20👋&fontSize=42&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20Anime%20Enthusiast&descAlignY=62&descAlign=50" width="100%"/>
+ <body>
 
-  <!-- Typing SVG (Demolab Official - High Uptime) -->
-  <a href="https://github.com/RazikSz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+App+Developer;Anime+Lover+%7C+Gamer+%F0%9F%8E%AE;Passionate+about+Modern+Web+%26+Tech;Let's+build+something+amazing+together!%20%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <h1 align="center">Hi , I'm Raziek Sz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <br><br>
+<div class="info">
 
-  <!-- Social Media Badges -->
-  <a href="https://rziekszz.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/rziek_sz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@ZkrEdtz" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://wa.me/6287885873325" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/Szzzzzkr" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:razikrdtya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<p align ="center">
+
+ <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
+
+ <p align="center">
+
+  <a href="https://github.com/RazikSz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Creator;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%20HEHEHE%20:)%20:)&center=true&width=500&height=50"></a>
+
+</p>
+
+
+
+
+
+ ### 💓 Introduction
+
+```
+
+Intro =
+
+
+
+"Name": "A.Raziek.R",
+
+"Status": "Learning,Playing",
+
+"Address": "Jakarta Barat, Dki Jakarta, Indonesia",
+
+"Birthday": "September - 15"
+
+   
+
+  "Big Thanks To"
+
+   "- Allah SWT"
+
+   "- All Helpers"
+
+   "- The Last Generation"
+
+   "- And My Friends"
+
+```
+
+</p>
+
+  <h1 align="center">RaziekSzz | Profile</h1>
+
+  
+
+  <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" align = "right" width = "170"></img>
+
+  <p width = "40">
+
+   
+
+```csharp
+
+-------------------------
+
+Hostname: RaziekSzz
+
+Hobbies: Watch Anime & Gamer
+
+Best Anime: Gotoubun No Hanayome
+
+Location: Indonesia, West Jakarta
+
+Domain: rziekszz.netlify.app
+
+------------------------
+
+```
+
+
+
+</p>
+
+ <br>
+
+ <br>
+
+ <br>
+
+ 
+
+ 🌏 Connect With Me
+
+
+
+<a href="https://www.instagram.com/rziek_sz"> 
+
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+
+</a>
+
+<a href="https://www.youtube.com/@ZkrEdtz"> 
+
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+
+</a>
+
+<!-- <a href="mailto:razikrdtya@gmail.com"> 
+
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+
+</a> -->
+
+<!-- <a href="https://www.github.com/RazikSz"> 
+
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
+
+</a> -->
+
+<!-- <a href="https://twitter.com/-"> 
+
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
+
+</a> -->
+
+<a href="https://wa.me/6287885873325"> 
+
+    <img src="https://img.shields.io/badge/Whatsapp-%231877F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" title="Whatsapp"  alt="Whatsapp"/>
+
+</a>
+
+<!--<a  href="https://www.linkedin.com/company/hi-coders/">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+
+</a>-->
+
+<a href="https://t.me/Szzzzzkr"> 
+
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" title="telegram"  alt="telegram"/>
+
+</a>
+
+<br />
+
+ <p align="center">
+
+     <img src="https://media1.tenor.com/m/oXkW9LLAGG8AAAAC/oshi-no-ko-head-bob.gif" width="140"></img>
+
+ </p>
+
+ <h3 align="center">🎵 My favorite song 🎵</h3>
 
 </div>
 
----
+<div class="music" width = "140">
 
-### 💫 About Me
+  <br>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>
-        Halo! Saya <b>A. Raziek R.</b>, seorang developer yang gemar mengeksplorasi teknologi modern di bidang Web & Mobile Development, sekaligus penikmat anime dan game.
-      </p>
-      <ul>
-        <li>🌱 <b>Status:</b> Actively Learning & Building Projects</li>
-        <li>📍 <b>Location:</b> Jakarta Barat, DKI Jakarta, Indonesia</li>
-        <li>🎂 <b>Birthday:</b> September 15</li>
-        <li>🎮 <b>Hobbies:</b> Gaming, Watching Anime & Coding</li>
-        <li>🌸 <b>Favorite Anime:</b> <i>Gotoubun no Hanayome, Oshi no Ko</i></li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://rziekszz.netlify.app">rziekszz.netlify.app</a></li>
-        <li>🙏 <b>Special Thanks:</b> Allah SWT, Family, Helpers, and Friends</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" width="160" alt="Anime Chibi"/>
-    </td>
-  </tr>
-</table>
+<br>
 
----
+<p align="left"> 
 
-### 💻 Tech Stack & Skills
+ <br>
 
-<div align="center">
+ <a src="https://music.youtube.com/watch?v=oXZcuHIR5ko&si=EZ6TsHwvDBPlOGIO">
 
-#### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+   <img src="https://lh3.googleusercontent.com/bZvM_5-TNxqVgcARVyglarPZHbWY9b9y4lPVuaj6cPp_WesnTs4VhJAXHyGsk-Bifs21awV4UT4OZsVC=w544-h544-l90-rj" width="100" align="left">
+
+    </img>
+
+   </a>
+
+    <h3 align="left"><br>LOVE 2000</h3>
+
+   </p>
+
+ <br>
+
+ <br>
+
+ <br>
+
+<p align="right">
+
+  <a href="https://music.youtube.com/watch?v=ObvC7QEuqXY&si=wJB35BViP_wAKep9">
+
+        <img src="https://lh3.googleusercontent.com/afOSAk2LNeVuemP8xalxWIAo7D1ZCb6LJlNaw5Dxe7nliR-WCtarbsr7Hm4U7Myn38bYS1eLWWXtstIWMg=w544-h544-l90-rj" width = "100" align="right"></img>
+
+      </a>
+
+        <h3 align="right"q><br>人生イージー</h3>
+
+       </p>
+
+          <br>
+
+            <br>
+
+        <br>
+
+   </div>
+
+   <br>
+
+   <h3 align="center">🎧 Spotify Playing</h3>
+
+<p align="center">
+
+  <a href="https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz?si=Vy5yjo0KTyi_HkGexZ9vrw" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
 </p>
 
-#### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-</p>
+   <br>
 
-#### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
+   <br>
 
-#### 🛠️ Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+   <p align="center">
 
-</div>
+         <img src="https://media1.tenor.com/m/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width= "280"></img>
 
----
+   </p>
 
-### 📊 GitHub Statistics
+  <br>
 
-<div align="center">
+  <h3 align="center">Languages || Tools:</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RazikSz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RazikSz GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazikSz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<p align="center"> 
 
-  <br><br>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
-  <img src="https://streak-stats.demolab.com/?user=RazikSz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  <br>
 
-</div>
+   <h3 align="center">📉 My Stats</h3>
 
----
 
-### 🎵 Music & Vibes
 
-<div align="center">
+![Rziek Github Statistic](https://github-readme-stats.vercel.app/api?username=RazikSz&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <p><b>🎧 Now Playing on Spotify</b></p>
-        <a href="https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz" target="_blank">
-          <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Playing" width="340"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <p><b>✨ Anime Chill Vibe</b></p>
-        <img src="https://media1.tenor.com/m/oXkW9LLAGG8AAAAC/oshi-no-ko-head-bob.gif" width="135" alt="Anime GIF"/>
-      </td>
-    </tr>
-  </table>
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=RazikSz&layout=compact&theme=highcontrast)
 
-  <!-- Favorite Tracks Quick Links -->
-  <p>
-    <b>🎶 Favorite Tracks:</b>
-    <a href="https://music.youtube.com/watch?v=oXZcuHIR5ko" target="_blank"><code>LOVE 2000</code></a> • 
-    <a href="https://music.youtube.com/watch?v=ObvC7QEuqXY" target="_blank"><code>人生イージー</code></a>
+![Rziek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazikSz&theme=vue-dark&hide_border=false)
+
+<br>
+
+  <h3 align="center">🙏 Thank you for reading</h3>
+
+  <p align="center">
+
+      <img src="https://media1.tenor.com/m/p_Wua847HAYAAAAd/hanamaru-kindergarten-anime.gif" width= "300"></img>
+
   </p>
 
+
 </div>
 
----
+ </body>
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/p_Wua847HAYAAAAd/hanamaru-kindergarten-anime.gif" width="220" alt="Thank You"/>
-  <br>
-  <sub><i>⭐️ Thank you for visiting my profile! Feel free to connect or collaborate.</i></sub>
-  <br><br>
-  <!-- Capsule Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=100&section=footer" width="100%"/>
-</div>
+</html> 
